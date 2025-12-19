@@ -1,0 +1,2 @@
+# mezatagbinder-privacy
+Privacy Policy
